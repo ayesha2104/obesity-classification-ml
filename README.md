@@ -1,7 +1,7 @@
 # Obesity Classification using Machine Learning
 
 This project predicts obesity levels based on lifestyle, dietary habits, and physical attributes.  
-Dataset: Combination of synthetic and real data collected from individuals in Mexico, Peru, and Colombia.  
+ 
 
 ## Project Workflow
 1. **Data Preprocessing**
@@ -37,7 +37,7 @@ Dataset: Combination of synthetic and real data collected from individuals in Me
 ## Repository Structure
 - `notebooks/`: Jupyter notebook with full workflow
 - `reports/`: Exported PDF & HTML versions
-- `data/`: Dataset (if included)
+- `data/`: Dataset
 
 ## Future Work
 - Use larger real-world datasets
